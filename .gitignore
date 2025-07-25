@@ -1,0 +1,22 @@
+# Ignore compiled files and temporary stuff
+*.log
+*.tmp
+*.bak
+*.swp
+*.zip
+
+# Output folders
+output/
+reports/
+
+# Python cache (if you ever use Python)
+__pycache__/
+*.py[cod]
+
+# Secret config files
+.env
+*.secret
+
+# Termux session files or history (if any)
+.history
+.session
