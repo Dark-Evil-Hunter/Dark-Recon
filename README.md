@@ -81,7 +81,7 @@ DarkRecon is a lightweight, easy-to-use bash script designed for quick reconnais
 
 ## 🔗 Featured Project
 
-👉 [DarkRecon](https://github.com/Dark-Evil-Hunter/DarkRecon) — My first ethical hacking tool, built with Termux & curiosity 💀
+👉 [Dark-Recon](https://github.com/Dark-Evil-Hunter/Dark-Recon) — My first ethical hacking tool, built with Termux & curiosity 💀
 
 ---
 
@@ -89,10 +89,10 @@ DarkRecon is a lightweight, easy-to-use bash script designed for quick reconnais
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Dark-Evil-Hunter/DarkRecon.git
-   cd DarkRecon
+   git clone https://github.com/Dark-Evil-Hunter/Dark-Recon.git
+   cd Dark-Recon
 ## 📸 Demo Screenshot
 
-Here’s a quick look at DarkRecon in action:
+Here’s a quick look at Dark-Recon in action:
 
-![DarkRecon CLI Output](demo-screenshot.png)
+![Dark-Recon CLI Output](demo-screenshot.png)
