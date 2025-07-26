@@ -91,3 +91,8 @@ DarkRecon is a lightweight, easy-to-use bash script designed for quick reconnais
    ```bash
    git clone https://github.com/Dark-Evil-Hunter/DarkRecon.git
    cd DarkRecon
+## 📸 Demo Screenshot
+
+Here’s a quick look at DarkRecon in action:
+
+![DarkRecon CLI Output](demo-screenshot.png)
